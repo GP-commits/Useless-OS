@@ -111,12 +111,9 @@
 
   # Video
 
- [ [demo video link](https://drive.google.com/file/d/1CdCQ8ZUPTlyNnDEQZ3xIPqix0O1AJe-7/view?usp=sharing)
+ [ [demo video link]](https://drive.google.com/file/d/1CdCQ8ZUPTlyNnDEQZ3xIPqix0O1AJe-7/view?usp=sharing)
   *The video demonstrates Useless OS booting, the main menu, Useless AI, the About page, and the Dino Game.*
 
-  # Additional Demos
-
-  [Add any extra demo materials/links]
 
   ## Team Contributions
 
