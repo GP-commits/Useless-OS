@@ -10,8 +10,6 @@
   ### Team Members
 
   - Team Lead: Sivadarsh P Dinesh - School of Engineering, CUSAT
-  - Member 2: [Name] - [College]
-  - Member 3: [Name] - [College]
 
   ### Project Description
 
@@ -123,8 +121,6 @@
   ## Team Contributions
 
   - Sivadarsh: Entire Project
-  - [Name 2]: [Specific contributions]
-  - [Name 3]: [Specific contributions]
 
   ---
 
