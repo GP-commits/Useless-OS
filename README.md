@@ -106,14 +106,14 @@
   <img width="883" height="1002" alt="image" src="https://github.com/user-attachments/assets/e4313d11-f79f-4811-806c-fca8c637ddff" />
   *The kernel is compiled and linked, then packaged with the Limine bootloader into a bootable ISO.*
 
-  ![Final](Add photo of final product here)
+  <img width="1920" height="1080" alt="20260913_152839" src="https://github.com/user-attachments/assets/7fc6dd6d-aad6-4df6-a40e-561543625550" />
   *The final product is Useless OS running from its bootable ISO in QEMU or on compatible hardware.*
 
   ### Project Demo
 
   # Video
 
-  [Add your demo video link here]
+ [ [Add your demo video link here]](https://drive.google.com/file/d/1CdCQ8ZUPTlyNnDEQZ3xIPqix0O1AJe-7/view?usp=sharing)
   *The video demonstrates Useless OS booting, the main menu, Useless AI, the About page, and the Dino Game.*
 
   # Additional Demos
